@@ -65,7 +65,7 @@ print("Area of Circle:", c.calculate_area())
 ```
 ## Output
 
-![Uploading 601407534-eab5c45e-339c-4661-9bb1-f58237fd5773.png…]()
+<img width="274" height="72" alt="601407534-eab5c45e-339c-4661-9bb1-f58237fd5773" src="https://github.com/user-attachments/assets/bd5e3c96-8b30-4db0-8683-0ba522a61058" />
 
 ## Result
 
